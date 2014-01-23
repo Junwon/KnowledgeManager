@@ -1,7 +1,7 @@
 KnowledgeManager
 ================
 
-A program that allows the user to tag files under a root directory, and allows to search files with files that have already been tagged
+This is a program created with a team for Senior Capstone Project that allows the user to tag files under a root directory, and allows to search files with files that have already been tagged
 
 This program requires the user to set up a MySQL database and saving the username and password in ReadingFiles.java.
 
